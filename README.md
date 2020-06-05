@@ -9,6 +9,5 @@ The models used are:
 •	Naïve Bayes Classifier
 •	Random Forest Classifier
 •	Convolutional Neural Network
-•	VGG16
 •	LSTM
 We will be performing cross-validation along with hyperparameter tuning to maximize accuracy and precision.
